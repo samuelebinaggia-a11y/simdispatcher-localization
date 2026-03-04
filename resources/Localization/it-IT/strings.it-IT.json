@@ -1,0 +1,16 @@
+resources/Localization/it-IT/strings.it-IT.json
+{
+  "GoAhead": "Procedi",
+  "Confirmed": "Confermato",
+  "ConfirmationEnded": "Conferma terminata",
+  "Standby": "In attesa",
+  "QuestionStatus": "Domanda: Stato",
+  "QuestionDestination": "Domanda: Destinazione",
+  "QuestionPatientName": "Nome paziente",
+  "DoctorNotAvailable": "Medico non disponibile",
+  "DoctorOnTheWay": "Medico in arrivo",
+  "AbortOperation": "Annulla operazione",
+  "FollowUpNote": "Nota di follow-up",
+  "FollowUpNoteUrgent": "Nota urgente",
+  "Repeat": "Ripeti"
+}
